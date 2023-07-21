@@ -12,9 +12,10 @@ En este proyecto se utiliza para tener acceso a cache de redis mediante una rest
 
 Abrir el prouecto y reemplazar la ruta copiada con la que se genera en su propio azure
 
+´´´csharp
  // Initialize
     public const string stringConnection = "<NameYourRedisCache>.redis.cache.windows.net,abortConnect=false,ssl=true,allowAdmin=true,password=wDAQoCHTvHdhQf2AhrmmICJuCek1JRM7TAzCaEDIOfU=";
-
+´´´
 Aqui un ejemplo como se conecto y retorna los valores mediante swagger
 ![image](https://github.com/elmarkos23/net-core-redis-cache-rest-api/assets/5819030/f94bfd3b-71d4-443f-876e-2488cfbae3a8)
 
