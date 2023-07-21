@@ -5,6 +5,7 @@ Requisitos
 * Configurar una redis cache
 
 Configuración básica
+
 ![image](https://github.com/elmarkos23/net-core-redis-cache-rest-api/assets/5819030/162101dd-a69e-4393-8b75-fd5e92a45827)
 
 Despues debes copiar la ruta que del redis generada
